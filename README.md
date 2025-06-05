@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Tharusha
+- Interested in Computer programming and 3D animation
 
 <!---
 TharuC/TharuC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
