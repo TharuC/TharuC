@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tharusha, Interested in Computer programming and 3D animation
+- 👋 Hi, I’m Tharusha, Interested in Computer programming, 3D animation and Physics
 
 <!---
 TharuC/TharuC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
